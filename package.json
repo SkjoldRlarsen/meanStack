@@ -1,0 +1,27 @@
+{
+  "name": "authapp",
+  "version": "1.0.0",
+  "description": "Mean stack application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkjoldRlarsen/meanStack.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK"
+  ],
+  "author": "Skjold R Larsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkjoldRlarsen/meanStack/issues"
+  },
+  "homepage": "https://github.com/SkjoldRlarsen/meanStack#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.10"
+  }
+}
